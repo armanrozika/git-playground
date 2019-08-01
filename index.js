@@ -4,3 +4,4 @@ const feature3 = 3;
 const feature4 = 4;
 const feature5 = 5;
 const feature6 = 6;
+const feature7 = 7;
